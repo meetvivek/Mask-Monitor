@@ -9,7 +9,6 @@ Mask Monitor is a machine learning project that detects whether a person is wear
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
-- [Credits](#credits)
 - [Contributions](#contributions)
 
 ## Introduction
@@ -63,11 +62,6 @@ To run this project, you need:
 - `excel_handler.py`: This module handles the recording of data to an Excel file.
 - `image_saver.py`: This module handles saving captured images along with their status (with or without mask).
 - `main.py`: This is the main script to run the Mask Monitor application.
-
-
-## Credits
-
-This project was developed by Vivek Kumar.
 
 ## Contributions
 
